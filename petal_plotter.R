@@ -26,3 +26,10 @@ legend(
 )
 
 dev.off() # Close plot
+
+# what does this script do?
+## it sets the data from iris, colors the flowers by red, blue and gold
+## opens the plot and plots the lenght of the petals to the width
+## and creates a legend with the species colours
+
+
